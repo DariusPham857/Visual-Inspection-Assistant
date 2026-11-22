@@ -7,6 +7,9 @@
 **Deliverable**: Comprehensive Technical Project Report (Tasks 1, 2, and 3)  
 **Project Repository**: `E:\computer vision\cw`  
 **Application Platform**: Streamlit (`app.py`), PyTorch (`torch 2.15`), OpenCV (`cv2 5.0`)  
+**Full Name**: Pham Tran Khanh Ninh
+**MSSV**: GCD250049
+**Project**: Visual Inspection Assistant
 
 ---
 

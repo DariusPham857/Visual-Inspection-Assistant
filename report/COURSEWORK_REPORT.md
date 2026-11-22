@@ -10,6 +10,7 @@
 **Full Name**: Pham Tran Khanh Ninh
 **MSSV**: GCD250049
 **Project**: Visual Inspection Assistant
+**Github**:[ Visual Inspection Assistant](https://github.com/DariusPham857/Visual-Inspection-Assistant)
 
 ---
 

@@ -1,0 +1,17 @@
+{
+  "train_sample_count": 28709,
+  "class_counts": {
+    "angry": 3995,
+    "disgust": 436,
+    "fear": 4097,
+    "happy": 7215,
+    "neutral": 4965,
+    "sad": 4830,
+    "surprise": 3171
+  },
+  "mean_255": 129.4733339525739,
+  "std_255": 65.04478229404027,
+  "mean_normalized": 0.5077385645198977,
+  "std_normalized": 0.2550775776236873,
+  "calculation_time_seconds": 23.359
+}

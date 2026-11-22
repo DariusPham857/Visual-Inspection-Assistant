@@ -1,0 +1,19 @@
+{
+  "camera_matrix_K": [
+    [536.07345314, 0.0, 342.37046827],
+    [0.0, 536.01636274, 235.53687064],
+    [0.0, 0.0, 1.0]
+  ],
+  "distortion_coefficients_D": [
+    -0.26509039,
+    -0.0467422,
+    0.00183302,
+    -0.00031469,
+    0.25231221
+  ],
+  "image_resolution": [640, 480],
+  "overall_rms_reprojection_error_px": 0.4086947658872143,
+  "checkerboard_pattern": [9, 6],
+  "checkerboard_square_size_unit": 1.0,
+  "calibration_dataset": "calibration_images (13 views)"
+}
